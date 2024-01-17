@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://shubhampadhi1234567890.on.drv.tw/myportfolio/chikuportfolio/chikuportfolio/](https://shubhampadhi1234567890.on.drv.tw/myportfolio/chikuportfolio/chikuportfolio/)
 
-- 💬 Ask me about **Secure a responsible career opportunity to fully utilize my academics and skills while making a significant contribution to the success of the company.**
+- 💬 About :**Secure a responsible career opportunity to fully utilize my academics and skills while making a significant contribution to the success of the company.**
 
 - 📫 How to reach me **shubhampadhi404@gmail.com**
 
