@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning MERN STACK **MongoDB , React Js, Express Js, Node Js**
 
-- 👨‍💻 All of my projects are available at [https://shubhampadhi1234567890.on.drv.tw/myportfolio/chikuportfolio/chikuportfolio/](https://shubhampadhi1234567890.on.drv.tw/myportfolio/chikuportfolio/chikuportfolio/)
+- 👨‍💻 All of my projects are available at [https://chikuportfolio.vercel.app/](https://chikuportfolio.vercel.app/)
 
 - 💬 About :**Secure a responsible career opportunity to fully utilize my academics and skills while making a significant contribution to the success of the company.**
 
