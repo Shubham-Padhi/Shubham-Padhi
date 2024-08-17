@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm SHUBHAM PADHI</h1>
 <h3 align="center">A passionate Full Stack Frontend Developer from India</h3>
-<img align="right" alt="coding" width="400" mix-blend-mode: multiply
+<img align="right" alt="coding" width="400" 
 src="https://camo.githubusercontent.com/b2b688db1f6826e136cc51b97070deea8af15747acb3bf0b9e209afd4a313374/68747470733a2f2f70687973696373677572756b756c2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f30322f6368617261637465722d312e676966">
 
 
@@ -27,3 +27,4 @@ src="https://camo.githubusercontent.com/b2b688db1f6826e136cc51b97070deea8af15747
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubham-padhi&show_icons=true&locale=en" alt="shubham-padhi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-padhi&" alt="shubham-padhi" /></p>
+
