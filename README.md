@@ -6,7 +6,7 @@ src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-
 
 - 🌱 I’m currently learning MERN STACK **MongoDB , React Js, Express Js, Node Js**
 
-- 👨‍💻 All of my projects are available at and my portfolio-  [https://chikuportfolio.vercel.app/](https://chikuportfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at and my portfolio-  [Portfolio](https://shubham-portfolio-2002.vercel.app/)
 
 - 💬 About :**Secure a responsible career opportunity to fully utilize my academics and skills while making a significant contribution to the success of the company.**
 
